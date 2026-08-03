@@ -32,6 +32,6 @@ Right now I'm deep in self-directed projects: an AI platform built entirely from
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=ssaiyajin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=ssaiyajin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&hide=stars,issues,contribs)
 ![](https://streak-stats.demolab.com/?user=ssaiyajin&theme=highcontrast&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ssaiyajin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
